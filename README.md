@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/e109676d-3ef6-4b7f-93a1-5436704ee6f0
+**URL**: https://preview--hikmah-wisdom-web.lovable.app
 
 ## How can I edit this code?
 
