@@ -3,7 +3,7 @@ import React, { useEffect } from 'react';
 import Navbar from '../components/layout/Navbar';
 import Footer from '../components/layout/Footer';
 import { SchoolButton } from '../components/ui/school-button';
-import { Helmet } from 'react-helmet';
+import { Helmet } from 'react-helmet-async';
 
 const About = () => {
   useEffect(() => {

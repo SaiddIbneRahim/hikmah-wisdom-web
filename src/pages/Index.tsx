@@ -9,7 +9,7 @@ import CampusSection from '../components/home/CampusSection';
 import CallToAction from '../components/home/CallToAction';
 import Navbar from '../components/layout/Navbar';
 import Footer from '../components/layout/Footer';
-import { Helmet } from 'react-helmet';
+import { Helmet } from 'react-helmet-async';
 
 const Index = () => {
   useEffect(() => {
